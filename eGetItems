@@ -1,0 +1,8 @@
+{
+  "eCrafting": [
+    { "name": "cGem Egg", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2a/GemEgg.webp" },
+    { "name": "Cheetah", "image": "https://static.wikia.nocookie.net/growagarden/images/9/9e/Cheetah.png" },
+    { "name": "Smithing Dog", "image": "https://static.wikia.nocookie.net/growagarden/images/2/2f/Smithing_Dog.png" }
+  ],
+  "message": "Share macro since its op!"
+}
